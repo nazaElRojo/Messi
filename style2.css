@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+}
+
+input{
+    padding: 20px;
+    background-color: rgba(27, 4, 160, 0.4);
+    color: rgb(160, 47, 47);
+    border-radius: 15px;
+    font-size: 20px;
+}

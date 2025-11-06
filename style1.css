@@ -1,0 +1,41 @@
+body{
+    background-color:pink;
+    background-image: url("messi1.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+input{
+    padding: 20px;
+    background-color: rgba(27, 4, 160, 0.4);
+    color: rgb(17, 11, 11);
+    border-radius: 15px;
+    font-size: 30px;
+}
+.boton{
+text-align: center;
+}
+
+legend{
+    background-color: rgba(143, 8, 109, 0.4);
+    color:black;
+    border-radius: 20px;
+}
+
+fieldset{
+    padding: 20px;
+    background-color: rgba(143, 8, 109, 0.4);
+    color: black;
+    border-radius: 15px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+h1{
+text-align: center;
+background-color: rgba(143, 8, 109, 0.4);
+width:20vw;
+border-radius: 10px;
+padding: 10px;
+border:2px black solid;
+}
